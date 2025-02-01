@@ -71,15 +71,14 @@ cd personal-budget-tracker
 
 ## 👥 Team & Responsibilities
 
-| Name    | Role                          | Assigned Files                                      |
-|---------|-------------------------------|-----------------------------------------------------|
-| mohamed shafici(admin)   | Project Manager & API Lead    | Backend (Server, API, Database)                     |
-|  mohamed shafici | Authentication & Security     | `auth_service.dart`, `auth_controller.dart`, `login_screen.dart`, `register_screen.dart` |
-| mohamed abdi ali| UI/UX Design & Navigation     | `main_screen.dart`, `home_screen.dart`, `settings_screen.dart` |
-
-| abdi shakuur mohamed nuur 3| Transactions & Filtering      | `transaction_controller.dart`, `add_transaction_screen.dart`, `transaction_list_screen.dart`, `transaction_search_delegate.dart` |
-| abdirizaq mohamed ali 4| Budget Tracking & Analytics   | `budget_controller.dart`, `stats_screen.dart`       |
-| naasir osman abdi| Database & Backend API        | `server.js`, `routes/transactions.js`, `routes/auth.js`, `models/userModel.js` |
+| Name                        | Role                          | Assigned Files                                                                 |
+|-----------------------------|-------------------------------|--------------------------------------------------------------------------------|
+| Mohamed Shafici (Admin)     | Project Manager & API Lead    | Backend (Server, API, Database)                                                |
+| Mohamed Shafici             | Authentication & Security     | `auth_service.dart`, `auth_controller.dart`, `login_screen.dart`, `register_screen.dart` |
+| Mohamed Abdi Ali            | UI/UX Design & Navigation     | `main_screen.dart`, `home_screen.dart`, `settings_screen.dart`                 |
+| Abdi Shakuur Mohamed Nuur   | Transactions & Filtering      | `transaction_controller.dart`, `add_transaction_screen.dart`, `transaction_list_screen.dart`, `transaction_search_delegate.dart` |
+| Abdirizaq Mohamed Ali       | Budget Tracking & Analytics   | `budget_controller.dart`, `stats_screen.dart`                                  |
+| Naasir Osman Abdi           | Database & Backend API        | `server.js`, `routes/transactions.js`, `routes/auth.js`, `models/userModel.js` |
 
 ## 🎯 API Endpoints
 
