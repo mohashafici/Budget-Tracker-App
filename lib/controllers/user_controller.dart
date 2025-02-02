@@ -7,7 +7,7 @@ class UserController extends GetxController {
   final storage = const FlutterSecureStorage();
 
   var user = {}.obs;
-  var budgetGoal = 0.0.obs; // ✅ Add budget goal observable
+  var budgetGoal = 0.0.obs; // 
 
   @override
   void onInit() {
