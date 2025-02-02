@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../controllers/auth_controller.dart';
 import 'login_screen.dart';
-
+// class registration 
 class RegisterScreen extends StatelessWidget {
   final AuthController authController = Get.put(AuthController());
   final TextEditingController nameController = TextEditingController();
