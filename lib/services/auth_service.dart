@@ -4,7 +4,7 @@ import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 class AuthService {
   final Dio _dio = Dio(BaseOptions(baseUrl: "http://localhost:8000/api/users"));
   final storage = const FlutterSecureStorage();
-
+//auth service
   AuthService() {
     _dio.interceptors.add(InterceptorsWrapper(
       onRequest: (options, handler) async {
