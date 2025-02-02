@@ -5,7 +5,7 @@ import '../screens/add_transaction_screen.dart';
 import '../screens/stats_screen.dart';
 import '../screens/settings_screen.dart';
 import '../screens/transaction_list_screen.dart';
-
+// testes
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
