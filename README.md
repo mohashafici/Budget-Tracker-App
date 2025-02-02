@@ -77,7 +77,7 @@ cd personal-budget-tracker
 | Mohamed Shafici             | Authentication & Security     | `auth_service.dart`, `auth_controller.dart`, `login_screen.dart`, `register_screen.dart` |
 | Mohamed Abdi Ali            | UI/UX Design & Navigation     | `main_screen.dart`, `home_screen.dart`, `settings_screen.dart`                 |
 | Abdi Shakuur Mohamed Nuur   | Transactions & Filtering      | `transaction_controller.dart`, `add_transaction_screen.dart`, `transaction_list_screen.dart`, `transaction_search_delegate.dart` |
-| Abdirizaq Mohamed Ali       | Budget Tracking & Analytics   | `budget_controller.dart`, `stats_screen.dart`                                  |
+| Abdirizaq calas Ali       | Budget Tracking & Analytics   | `budget_controller.dart`, `stats_screen.dart`                                  |
 | Naasir Osman Abdi           | Database & Backend API        | `server.js`, `routes/transactions.js`, `routes/auth.js`, `models/userModel.js` |
 
 ## 🎯 API Endpoints
