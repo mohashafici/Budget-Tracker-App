@@ -100,13 +100,7 @@ cd personal-budget-tracker
 - Integrate Google Sign-In.
 - Add expense category insights.
 
-## 🤝 Contributing
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit changes (`git commit -m "Add feature XYZ"`).
-4. Push to branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
 ## 📄 License
 
