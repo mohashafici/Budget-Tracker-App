@@ -12,7 +12,7 @@ class BudgetController extends GetxController {
     super.onInit();
     fetchBudgetGoal();
   }
-
+//fetching budgetgoal
   Future<void> fetchBudgetGoal() async {
     try {
       String? token = await storage.read(key: "token");
